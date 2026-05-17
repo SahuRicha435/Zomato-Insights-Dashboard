@@ -39,7 +39,7 @@ Analyzed 9,000+ restaurant records from Zomato to uncover trends in pricing, rat
 - Improve service quality to increase average ratings.  
 - Analyze mid-range pricing strategies for higher customer retention.
 
-
+![Dashboard](Zomato.png)
 
 # My Role  
 - Data Cleaning  
