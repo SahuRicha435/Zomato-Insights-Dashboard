@@ -3,6 +3,8 @@
 #Project Overview  
 This project analyzes Zomato restaurant data to identify trends in customer preferences, pricing patterns, ratings, and city-wise performance. The goal is to generate business insights that can help restaurants and food platforms improve customer satisfaction and revenue.
 
+ # Problem Statement
+Analyzed 9,000+ restaurant records from Zomato to uncover trends in pricing, ratings, and location performance to support data-driven business decisions.
 
 
 # Dataset Information  
